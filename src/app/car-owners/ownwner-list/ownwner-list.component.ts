@@ -39,4 +39,5 @@ export class OwnwnerListComponent implements OnInit {
   {
     this.router.navigate(['owners', persona.id]);
   }
-}
+} 
+/*integración por Abraham Rosales*/
